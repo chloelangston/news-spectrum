@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/news-spectrum/static/css/main.1fdbefe6.chunk.css",
+    "main.js": "/news-spectrum/static/js/main.023a972b.chunk.js",
+    "main.js.map": "/news-spectrum/static/js/main.023a972b.chunk.js.map",
+    "runtime-main.js": "/news-spectrum/static/js/runtime-main.6ef20ae2.js",
+    "runtime-main.js.map": "/news-spectrum/static/js/runtime-main.6ef20ae2.js.map",
+    "static/js/2.96243e6c.chunk.js": "/news-spectrum/static/js/2.96243e6c.chunk.js",
+    "static/js/2.96243e6c.chunk.js.map": "/news-spectrum/static/js/2.96243e6c.chunk.js.map",
+    "static/js/3.9d8852f9.chunk.js": "/news-spectrum/static/js/3.9d8852f9.chunk.js",
+    "static/js/3.9d8852f9.chunk.js.map": "/news-spectrum/static/js/3.9d8852f9.chunk.js.map",
+    "index.html": "/news-spectrum/index.html",
+    "static/css/main.1fdbefe6.chunk.css.map": "/news-spectrum/static/css/main.1fdbefe6.chunk.css.map",
+    "static/js/2.96243e6c.chunk.js.LICENSE.txt": "/news-spectrum/static/js/2.96243e6c.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/news-spectrum/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ef20ae2.js",
+    "static/js/2.96243e6c.chunk.js",
+    "static/css/main.1fdbefe6.chunk.css",
+    "static/js/main.023a972b.chunk.js"
+  ]
+}
